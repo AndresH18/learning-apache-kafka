@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apache Kafka Essential Training/Apache Kafka Essential Training.iml" filepath="$PROJECT_DIR$/Apache Kafka Essential Training/Apache Kafka Essential Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-apache-kafka.iml" filepath="$PROJECT_DIR$/learning-apache-kafka.iml" />
+    </modules>
+  </component>
+</project>
